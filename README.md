@@ -70,26 +70,44 @@ Dr. Akhilesh Das Gupta Institute, GGSIPU (2023–2027)
 
 ## 📊 GitHub At A Glance
 
-<table align="center">
-<tr>
-<td align="center"><h3>6</h3><sub>Repositories</sub></td>
-<td align="center"><h3>107+</h3><sub>Total Commits</sub></td>
-<td align="center"><h3>5</h3><sub>Languages Used</sub></td>
-<td align="center"><h3>2</h3><sub>Live Deployed Apps</sub></td>
-</tr>
-<tr>
-<td align="center"><h3>200+ MB</h3><sub>Code Written</sub></td>
-<td align="center"><h3>35+</h3><sub>Topics Tagged</sub></td>
-<td align="center"><h3>16 mo</h3><sub>Active on GitHub</sub></td>
-<td align="center"><h3>Sep 2026</h3><sub>Last Active</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-6-00d2ff?style=for-the-badge" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-114+-a9fef7?style=for-the-badge" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Live%20Deployed%20Apps-3-06d6a0?style=for-the-badge" alt="Deployed"/>
+  <img src="https://img.shields.io/badge/Languages-5+-ffd93d?style=for-the-badge" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Codebase-200%2B%20MB-e056fd?style=for-the-badge" alt="Code"/>
+  <img src="https://img.shields.io/badge/Topics%20Tagged-35+-ff6b6b?style=for-the-badge" alt="Topics"/>
+</p>
+
+### 📈 Commits Per Repository
+
+```text
+Customer Churn Prediction   ████████████████████████████████████████████████░░  50 commits
+Data Warehouse Pipeline     ███████████████████████████░░░░░░░░░░░░░░░░░░░░░░  29 commits
+Todo List App               █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13 commits
+Ride Booking Analytics      ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8 commits
+Movie Recommender Engine    ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7 commits
+GitHub Profile README       ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   7 commits
+```
+
+### 🔤 Language Distribution (by code volume)
+
+```text
+HTML               ██████████████████████████████████████████████████  88.2%  (30 MB)
+Jupyter Notebook   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.2%  (3.5 MB)
+JavaScript         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+Python             █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+CSS                ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+```
+
+### 🚀 Live Deployments
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Most%20Used-Python%20%7C%20SQL%20%7C%20Jupyter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Most Used"/>
-  <img src="https://img.shields.io/badge/Deployed%20On-Vercel%20%7C%20Streamlit%20Cloud-000?style=flat-square&logo=vercel&logoColor=white" alt="Deployed"/>
-  <img src="https://img.shields.io/badge/Biggest%20Repo-Movie%20Recommender%20(200MB)-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Biggest"/>
+  <a href="https://customerchurnprediction-roan.vercel.app/"><img src="https://img.shields.io/badge/Churn%20Predictor-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Churn"/></a>
+  <a href="https://smart-movie-recomendation.streamlit.app/"><img src="https://img.shields.io/badge/Movie%20Recommender-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Movie"/></a>
+  <a href="https://todo-list-vc31.onrender.com"><img src="https://img.shields.io/badge/Todo%20App-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Todo"/></a>
 </p>
+
 
 
 ## 🛠️ Tech Stack
