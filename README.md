@@ -108,7 +108,7 @@ Dr. Akhilesh Das Gupta Institute, GGSIPU (2023–2027)
 
 <p>
   <a href="https://github.com/krohitrkumar/customer_churn_prediction"><img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
-  <a href="https://customerchurnprediction-gsawlwntpmgq3ruxscepg7.streamlit.app/"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
+  <a href="https://customerchurnprediction-roan.vercel.app/"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 </p>
 
 ---
