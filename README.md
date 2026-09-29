@@ -79,19 +79,17 @@ Dr. Akhilesh Das Gupta Institute, GGSIPU (2023–2027)
   <img src="https://img.shields.io/badge/Topics%20Tagged-35+-ff6b6b?style=for-the-badge" alt="Topics"/>
 </p>
 
-### 📊 Visual Analytics
+### 🔤 Top Languages &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Deployed On
 
 <p align="center">
-  <img src="https://quickchart.io/chart?bkg=%230d1117&width=520&height=280&c=%7b%22type%22%3a%22doughnut%22%2c%22data%22%3a%7b%22labels%22%3a%5b%22Churn+Predictor%22%2c%22Data+Warehouse%22%2c%22Ride+Analytics%22%2c%22Movie+Recommender%22%2c%22Profile+README%22%5d%2c%22datasets%22%3a%5b%7b%22data%22%3a%5b50%2c29%2c8%2c7%2c7%5d%2c%22backgroundColor%22%3a%5b%22%2300d2ff%22%2c%22%2306d6a0%22%2c%22%23ffd93d%22%2c%22%23ff6b6b%22%2c%22%23e056fd%22%5d%2c%22borderWidth%22%3a2%2c%22borderColor%22%3a%22%230d1117%22%7d%5d%7d%2c%22options%22%3a%7b%22plugins%22%3a%7b%22legend%22%3a%7b%22position%22%3a%22right%22%2c%22labels%22%3a%7b%22color%22%3a%22%23a9fef7%22%2c%22font%22%3a%7b%22size%22%3a12%7d%2c%22padding%22%3a12%7d%7d%2c%22title%22%3a%7b%22display%22%3atrue%2c%22text%22%3a%22Commits+Distribution+by+Project%22%2c%22color%22%3a%22%23ffffff%22%2c%22font%22%3a%7b%22size%22%3a13%7d%7d%7d%2c%22cutout%22%3a%2258%25%22%7d%7d" alt="Commits Distribution"/>
-  &nbsp;&nbsp;
-  <img src="https://quickchart.io/chart?bkg=%230d1117&width=460&height=380&c=%7b%22type%22%3a%22radar%22%2c%22data%22%3a%7b%22labels%22%3a%5b%22Machine+Learning%22%2c%22SQL+%26+Analytics%22%2c%22Power+BI+%2f+DAX%22%2c%22Backend+%26+API%22%2c%22Cloud+Deploy%22%2c%22Data+Visualization%22%5d%2c%22datasets%22%3a%5b%7b%22label%22%3a%22Skill+Level%22%2c%22data%22%3a%5b88%2c92%2c82%2c76%2c72%2c85%5d%2c%22backgroundColor%22%3a%22rgba(0%2c210%2c255%2c0.15)%22%2c%22borderColor%22%3a%22%2300d2ff%22%2c%22pointBackgroundColor%22%3a%22%2300d2ff%22%2c%22pointBorderColor%22%3a%22%230d1117%22%2c%22pointRadius%22%3a5%2c%22borderWidth%22%3a2%7d%5d%7d%2c%22options%22%3a%7b%22scales%22%3a%7b%22r%22%3a%7b%22beginAtZero%22%3atrue%2c%22max%22%3a100%2c%22ticks%22%3a%7b%22display%22%3afalse%7d%2c%22grid%22%3a%7b%22color%22%3a%22rgba(169%2c254%2c247%2c0.12)%22%7d%2c%22pointLabels%22%3a%7b%22color%22%3a%22%23a9fef7%22%2c%22font%22%3a%7b%22size%22%3a12%7d%7d%2c%22angleLines%22%3a%7b%22color%22%3a%22rgba(169%2c254%2c247%2c0.12)%22%7d%7d%7d%2c%22plugins%22%3a%7b%22legend%22%3a%7b%22display%22%3afalse%7d%2c%22title%22%3a%7b%22display%22%3atrue%2c%22text%22%3a%22Technical+Skill+Radar%22%2c%22color%22%3a%22%23ffffff%22%2c%22font%22%3a%7b%22size%22%3a14%7d%7d%7d%7d%7d" alt="Skill Radar"/>
-</p>
-
-### 🚀 Live Deployments
-
-<p align="center">
-  <a href="https://customerchurnprediction-roan.vercel.app/"><img src="https://img.shields.io/badge/Churn%20Predictor-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Churn"/></a>
-  <a href="https://smart-movie-recomendation.streamlit.app/"><img src="https://img.shields.io/badge/Movie%20Recommender-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Movie"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://customerchurnprediction-roan.vercel.app/"><img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/></a>
+  <a href="https://smart-movie-recomendation.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
 </p>
 
 
