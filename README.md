@@ -68,6 +68,30 @@ Dr. Akhilesh Das Gupta Institute, GGSIPU (2023–2027)
 
 ---
 
+## 📊 GitHub At A Glance
+
+<table align="center">
+<tr>
+<td align="center"><h3>6</h3><sub>Repositories</sub></td>
+<td align="center"><h3>107+</h3><sub>Total Commits</sub></td>
+<td align="center"><h3>5</h3><sub>Languages Used</sub></td>
+<td align="center"><h3>2</h3><sub>Live Deployed Apps</sub></td>
+</tr>
+<tr>
+<td align="center"><h3>200+ MB</h3><sub>Code Written</sub></td>
+<td align="center"><h3>35+</h3><sub>Topics Tagged</sub></td>
+<td align="center"><h3>16 mo</h3><sub>Active on GitHub</sub></td>
+<td align="center"><h3>Sep 2026</h3><sub>Last Active</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Most%20Used-Python%20%7C%20SQL%20%7C%20Jupyter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Most Used"/>
+  <img src="https://img.shields.io/badge/Deployed%20On-Vercel%20%7C%20Streamlit%20Cloud-000?style=flat-square&logo=vercel&logoColor=white" alt="Deployed"/>
+  <img src="https://img.shields.io/badge/Biggest%20Repo-Movie%20Recommender%20(200MB)-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Biggest"/>
+</p>
+
+
 ## 🛠️ Tech Stack
 
 <p align="center">
