@@ -73,7 +73,7 @@ Dr. Akhilesh Das Gupta Institute, GGSIPU (2023–2027)
 <p align="center">
   <img src="https://img.shields.io/badge/Repositories-6-00d2ff?style=for-the-badge" alt="Repos"/>
   <img src="https://img.shields.io/badge/Total%20Commits-114+-a9fef7?style=for-the-badge" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Live%20Deployed%20Apps-3-06d6a0?style=for-the-badge" alt="Deployed"/>
+  <img src="https://img.shields.io/badge/Live%20Deployed%20Apps-2-06d6a0?style=for-the-badge" alt="Deployed"/>
   <img src="https://img.shields.io/badge/Languages-5+-ffd93d?style=for-the-badge" alt="Languages"/>
   <img src="https://img.shields.io/badge/Codebase-200%2B%20MB-e056fd?style=for-the-badge" alt="Code"/>
   <img src="https://img.shields.io/badge/Topics%20Tagged-35+-ff6b6b?style=for-the-badge" alt="Topics"/>
@@ -105,7 +105,6 @@ CSS                ░░░░░░░░░░░░░░░░░░░░�
 <p align="center">
   <a href="https://customerchurnprediction-roan.vercel.app/"><img src="https://img.shields.io/badge/Churn%20Predictor-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Churn"/></a>
   <a href="https://smart-movie-recomendation.streamlit.app/"><img src="https://img.shields.io/badge/Movie%20Recommender-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Movie"/></a>
-  <a href="https://todo-list-vc31.onrender.com"><img src="https://img.shields.io/badge/Todo%20App-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Todo"/></a>
 </p>
 
 
